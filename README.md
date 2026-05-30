@@ -330,9 +330,12 @@ https://github.com/user-attachments/assets/0c516ad2-da8b-4778-9f03-59c3e11e6a62
 
 ## Author
 
-**Haris**
-B.Tech Mechanical Engineering — VIT-AP University
-Specialization: CFD & FEA Simulation (ANSYS Fluent, ANSYS Mechanical)
+**Mohammad Haris** — Mechanical Engineer | FEA & CFD Engineer
+
+GitHub: [github.com/MohammadHaris13](https://github.com/MohammadHaris13)
+
+   
+[Linkedin Profile](https://linkedin.com/in/mohammad-haris-13032002) | [Email](mailto:mohammaddharis1303@gmail.com)
 
 ---
 
